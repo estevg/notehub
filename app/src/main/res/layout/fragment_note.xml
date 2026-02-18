@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:are="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.note.NoteFragment">
+
+    <com.example.notehub.ui.note.commons.CustomTextInput
+        android:id="@+id/TextInputTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:autoSizeTextType="uniform"
+        android:hint="Title Here"
+        android:inputType="textMultiLine"
+        android:padding="5dp"
+        android:textStyle="bold"
+        android:scrollHorizontally="false"
+        android:singleLine="true"
+        android:textSize="30dp"
+        are:layout_constraintLeft_toLeftOf="parent"
+        are:layout_constraintRight_toRightOf="parent"
+        are:layout_constraintTop_toTopOf="parent" />
+
+
+    <com.example.notehub.ui.note.commons.CustomTextInput
+        android:id="@+id/TextInputEditText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:autoSizeTextType="uniform"
+        android:hint="Title Here"
+        android:inputType="textMultiLine"
+        android:padding="5dp"
+        android:scrollHorizontally="false"
+        android:singleLine="true"
+        are:layout_constraintLeft_toLeftOf="parent"
+        are:layout_constraintRight_toRightOf="parent"
+        are:layout_constraintTop_toBottomOf="@+id/TextInputTitle" />
+
+    <Button
+        are:layout_constraintRight_toLeftOf="@+id/cursiva"
+        are:layout_constraintLeft_toLeftOf="parent"
+        are:layout_constraintBottom_toBottomOf="parent"
+        android:id="@+id/negrita"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="Negrita" />
+
+    <Button
+        are:layout_constraintLeft_toRightOf="@+id/negrita"
+        are:layout_constraintRight_toRightOf="parent"
+        are:layout_constraintBottom_toBottomOf="parent"
+        android:id="@+id/cursiva"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right|center"
+        android:text="Cursiva" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

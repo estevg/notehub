@@ -1,5 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
+    <!-- Primary -->
+    <color name="primary_base">#6A3EA1</color>
+    <color name="primary_dark">#3A2258</color>
+    <color name="primary_light">#EFE9F7</color>
+    <color name="primary_background">#FAF8FC</color>
+
+    <!-- Secondary -->
+    <color name="secondary_base">#DEDC52</color>
+    <color name="secondary_dark">#565510</color>
+    <color name="secondary_light">#DAF6E4</color>
+
+
+    <!-- Neutral Color-->
+    <color name="black">#000000</color>
+    <color name="dark_gray">#827D89</color>
+    <color name="base_gray">#C8C5CB</color>
+    <color name="light_gray">#EFEEF0</color>
+    <color name="white">#FFFFFF</color>
+
+    <color name="base">#60D889</color>
+    <color name="base_dark">#1F7F40</color>
+    <color name="base_light">#DAF6E4</color>
+
+    <color name="error_base">#CE3A54</color>
+    <color name="error_dark">#5A1623</color>
+    <color name="error_light">#F7DEE3</color>
+
+
+    <color name="warning_base">#F8C715</color>
+    <color name="warning_dark">#725A03</color>
+    <color name="warning_light">#FDEBAB</color>
+
 </resources>

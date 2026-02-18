@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="xs_regular">
+        <item name="android:textSize">10sp</item>
+        <item name="android:includeFontPadding">false</item>
+        <item name="android:fontFamily">@font/inter_regular</item>
+    </style>
+
+    <style name="xs_2_regular">
+        <item name="android:textSize">12sp</item>
+        <item name="android:includeFontPadding">false</item>
+        <item name="android:fontFamily">@font/inter_regular</item>
+    </style>
+
+    <style name="sm_regular">
+        <item name="android:textSize">16sp</item>
+        <item name="android:includeFontPadding">false</item>
+        <item name="android:fontFamily">@font/inter_regular</item>
+    </style>
+
+    <style name="base_regular">
+        <item name="android:textSize">16sp</item>
+        <item name="android:includeFontPadding">false</item>
+        <item name="android:fontFamily">@font/inter_regular</item>
+    </style>
+
+    <style name="lg_regular">
+        <item name="android:textSize">20sp</item>
+        <item name="android:includeFontPadding">false</item>
+        <item name="android:fontFamily">@font/inter_regular</item>
+    </style>
+
+    <style name="xl_regular">
+        <item name="android:textSize">24sp</item>
+        <item name="android:includeFontPadding">false</item>
+        <item name="android:fontFamily">@font/inter_regular</item>
+    </style>
+
+    <style name="xl_2_regular">
+        <item name="android:textSize">32sp</item>
+        <item name="android:includeFontPadding">false</item>
+        <item name="android:fontFamily">@font/inter_regular</item>
+    </style>
+
+    <style name="xl_3_regular">
+        <item name="android:textSize">40sp</item>
+        <item name="android:includeFontPadding">false</item>
+        <item name="android:fontFamily">@font/inter_regular</item>
+    </style>
+
+
+    <style name="xs_medium">
+        <item name="android:textSize">10sp</item>
+        <item name="android:includeFontPadding">false</item>
+        <item name="android:fontFamily">@font/inter_medium</item>
+    </style>
+
+    <style name="xs_2_medium">
+        <item name="android:textSize">12sp</item>
+        <item name="android:includeFontPadding">false</item>
+        <item name="android:fontFamily">@font/inter_medium</item>
+    </style>
+
+    <style name="sm_medium">
+        <item name="android:textSize">16sp</item>
+        <item name="android:includeFontPadding">false</item>
+        <item name="android:fontFamily">@font/inter_medium</item>
+    </style>
+
+    <style name="base_medium">
+        <item name="android:textSize">16sp</item>
+        <item name="android:includeFontPadding">false</item>
+        <item name="android:fontFamily">@font/inter_medium</item>
+    </style>
+
+    <style name="lg_medium">
+        <item name="android:textSize">20sp</item>
+        <item name="android:includeFontPadding">false</item>
+        <item name="android:fontFamily">@font/inter_medium</item>
+    </style>
+
+    <style name="xl_medium">
+        <item name="android:textSize">24sp</item>
+        <item name="android:includeFontPadding">false</item>
+        <item name="android:fontFamily">@font/inter_medium</item>
+    </style>
+
+    <style name="xl_2_medium">
+        <item name="android:textSize">32sp</item>
+        <item name="android:includeFontPadding">false</item>
+        <item name="android:fontFamily">@font/inter_medium</item>
+    </style>
+
+    <style name="xl_3_medium">
+        <item name="android:textSize">40sp</item>
+        <item name="android:includeFontPadding">false</item>
+        <item name="android:fontFamily">@font/inter_medium</item>
+    </style>
+
+
+    <style name="xs_bold">
+        <item name="android:textSize">10sp</item>
+        <item name="android:includeFontPadding">false</item>
+        <item name="android:fontFamily">@font/inter_bold</item>
+    </style>
+
+    <style name="xs_2_bold">
+        <item name="android:textSize">12sp</item>
+        <item name="android:includeFontPadding">false</item>
+        <item name="android:fontFamily">@font/inter_bold</item>
+    </style>
+
+    <style name="sm_bold">
+        <item name="android:textSize">16sp</item>
+        <item name="android:includeFontPadding">false</item>
+        <item name="android:fontFamily">@font/inter_bold</item>
+    </style>
+
+    <style name="base_bold">
+        <item name="android:textSize">16sp</item>
+        <item name="android:includeFontPadding">false</item>
+        <item name="android:fontFamily">@font/inter_bold</item>
+    </style>
+
+    <style name="lg_bold">
+        <item name="android:textSize">20sp</item>
+        <item name="android:includeFontPadding">false</item>
+        <item name="android:fontFamily">@font/inter_bold</item>
+    </style>
+
+    <style name="xl_bold">
+        <item name="android:textSize">24sp</item>
+        <item name="android:includeFontPadding">false</item>
+        <item name="android:fontFamily">@font/inter_bold</item>
+    </style>
+
+    <style name="xl_2_bold">
+        <item name="android:textSize">32sp</item>
+        <item name="android:includeFontPadding">false</item>
+        <item name="android:fontFamily">@font/inter_bold</item>
+    </style>
+
+    <style name="xl_3_bold">
+        <item name="android:textSize">40sp</item>
+        <item name="android:includeFontPadding">false</item>
+        <item name="android:fontFamily">@font/inter_bold</item>
+    </style>
+</resources>
